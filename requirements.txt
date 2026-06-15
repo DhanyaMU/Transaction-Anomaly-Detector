@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+faker
+scikit-learn
+python-dotenv
